@@ -1,0 +1,21 @@
+{
+  "name": "wepy-com-toast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "toast.wpy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wepyjs/wepy-com-toast.git"
+  },
+  "author": "Gcaufy",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-1": "^6.16.0"
+  }
+}
