@@ -5,7 +5,7 @@
 
 ## 说明
 官方toast组件只支持显示`success`，`loading`两种icon，因此需要一个更加个性化的toast组件。
-此组件依赖于[wepyjs](https://github.com/wepyjs/wepy)，如果没有使用`wepyjs`，则可以使用[原版toast组件](https://github.com/kiinlam/wetoast)。
+此组件依赖于[wepyjs v1.1.9+](https://github.com/wepyjs/wepy)，如果没有使用`wepyjs`，则可以使用[原版toast组件](https://github.com/kiinlam/wetoast)。
 
 
 ## 使用
