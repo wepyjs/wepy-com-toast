@@ -79,7 +79,7 @@
         };
 
         onLoad () {
-            this.hasPromise = (typeof Promise !== undefined);
+            this.hasPromise = (typeof Promise !== "undefined");
         }
 
         show (data = {}) {
