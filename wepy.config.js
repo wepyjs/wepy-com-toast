@@ -10,8 +10,7 @@ module.exports = {
         ],
         "plugins": [
             "transform-export-extensions",
-            "syntax-export-extensions",
-            "transform-runtime"
+            "syntax-export-extensions"
         ]
     }
 };
