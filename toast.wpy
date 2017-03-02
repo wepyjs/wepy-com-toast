@@ -78,6 +78,8 @@
             titleClassName: ''
         };
 
+	methods = {};
+
         onLoad () {
             this.hasPromise = (typeof Promise !== "undefined");
         }
