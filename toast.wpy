@@ -66,7 +66,7 @@
 <script>
     import wepy from 'wepy';
 
-    export default class Panel extends wepy.component {
+    export default class Toast extends wepy.component {
 
         data = {
             reveal: false,
